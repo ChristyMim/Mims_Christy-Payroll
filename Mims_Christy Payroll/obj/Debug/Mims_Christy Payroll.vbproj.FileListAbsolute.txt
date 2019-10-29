@@ -1,0 +1,22 @@
+E:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\bin\Debug\Mims_Christy Payroll.exe.config
+E:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\bin\Debug\Mims_Christy Payroll.exe
+E:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\bin\Debug\Mims_Christy Payroll.pdb
+E:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\bin\Debug\Mims_Christy Payroll.xml
+E:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\obj\Debug\Mims_Christy Payroll.vbprojResolveAssemblyReference.cache
+E:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\obj\Debug\Mims_Christy_Payroll.frmPayroll.resources
+E:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\obj\Debug\Mims_Christy_Payroll.Resources.resources
+E:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\obj\Debug\Mims_Christy Payroll.vbproj.GenerateResource.Cache
+E:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\obj\Debug\Mims_Christy Payroll.exe
+E:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\obj\Debug\Mims_Christy Payroll.xml
+E:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\obj\Debug\Mims_Christy Payroll.pdb
+G:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\bin\Debug\Mims_Christy Payroll.exe.config
+G:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\obj\Debug\Mims_Christy Payroll.exe
+G:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\obj\Debug\Mims_Christy Payroll.xml
+G:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\obj\Debug\Mims_Christy Payroll.pdb
+G:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\bin\Debug\Mims_Christy Payroll.exe
+G:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\bin\Debug\Mims_Christy Payroll.pdb
+G:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\bin\Debug\Mims_Christy Payroll.xml
+G:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\obj\Debug\Mims_Christy Payroll.vbprojResolveAssemblyReference.cache
+G:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\obj\Debug\Mims_Christy_Payroll.frmPayroll.resources
+G:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\obj\Debug\Mims_Christy_Payroll.Resources.resources
+G:\vbp\Mims_Christy Payroll\Mims_Christy Payroll\obj\Debug\Mims_Christy Payroll.vbproj.GenerateResource.Cache
